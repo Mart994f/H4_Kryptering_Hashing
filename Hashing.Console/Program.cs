@@ -71,7 +71,7 @@ namespace Hashing.ConsoleApplication
             }
         }
 
-        private static void ComputeHash(string message)
+        private static void ComputeHash(string message, )
         {
             HashAlgorithms hash = new HashAlgorithms();
 
